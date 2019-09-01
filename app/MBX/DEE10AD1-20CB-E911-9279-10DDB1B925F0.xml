@@ -1,0 +1,431 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="DEE10AD1-20CB-E911-9279-10DDB1B925F0" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="40">
+    <control controlID="826C3A86-21CB-E911-9279-10DDB1B925F0" controlTypeID="ScrollView" x="0" y="0" w="360" h="640" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="46D93B86-21CB-E911-9279-10DDB1B925F0" controlTypeID="ScrollViewContentPanel" x="0" y="0" w="360" h="1071" zOrder="0">
+          <alias>contentPanel</alias>
+          <groupChildrenDescriptors>
+            <control controlID="0E9E2978-2DCB-E911-9279-10DDB1B925F0" controlTypeID="__group__" x="20" y="383" w="320" h="286" zOrder="0">
+              <caption>ListItem3</caption>
+              <groupChildrenDescriptors>
+                <control controlID="869E2978-2DCB-E911-9279-10DDB1B925F0" controlTypeID="Image" x="0" y="0" w="36" h="36" zOrder="0">
+                  <caption>avatar</caption>
+                  <clipShapeType>SbEllipse</clipShapeType>
+                  <radius>50</radius>
+                  <radiusIsPercent>True</radiusIsPercent>
+                  <URL>CE88A96398DDB12C706E1D3DDB8A0557.jpg</URL>
+                  <fitMode>fmFit</fitMode>
+                </control>
+                <control controlID="D69E2978-2DCB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="46" y="0" w="89" h="18" zOrder="1">
+                  <caption>fmName</caption>
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>Tristan+Landry</text>
+                  <textColor>4278217108</textColor>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="1C9F2978-2DCB-E911-9279-10DDB1B925F0" controlTypeID="Icon" x="46" y="24" w="11" h="11" zOrder="2">
+                  <icon>
+                    <ID/>
+                    <iconFontName>jdIonicons</iconFontName>
+                    <iconCode>62371</iconCode>
+                  </icon>
+                  <URL>474A61FDC203C97B2EEFAF494C017CCB.svg</URL>
+                </control>
+                <control controlID="6C9F2978-2DCB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="63" y="24" w="58" h="13" zOrder="3">
+                  <caption>textLocation</caption>
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>Kivukoni+Feri</text>
+                  <textColor>4284900966</textColor>
+                  <textSize>10</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="BC9F2978-2DCB-E911-9279-10DDB1B925F0" controlTypeID="Image" x="0" y="59" w="320" h="227" zOrder="4">
+                  <caption>mainImage</caption>
+                  <URL>59D097118BF9089316A3B29B331F958E.png</URL>
+                  <fitMode>fmCenter</fitMode>
+                </control>
+                <control controlID="02A02978-2DCB-E911-9279-10DDB1B925F0" controlTypeID="Shape" x="0" y="237" w="320" h="48" zOrder="5">
+                  <color>2986344448</color>
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="52A02978-2DCB-E911-9279-10DDB1B925F0" controlTypeID="TextArea" x="0" y="237" w="236" h="48" zOrder="6">
+                  <caption>textDescription</caption>
+                  <color>27028</color>
+                  <font family="Raleway+Thin" displayName="Raleway+Thin" postScript="Raleway-Thin" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+                  <text>Tilapia+(Sato)+340kg+available+at+TZS8%2C000+per+kg</text>
+                  <textColor>4294967295</textColor>
+                  <textSize>12</textSize>
+                  <textAlign>HaCenter</textAlign>
+                  <textVAlign>VaMiddle</textVAlign>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="98A02978-2DCB-E911-9279-10DDB1B925F0" controlTypeID="Button" x="262" y="250" w="48" h="22" zOrder="7">
+                  <caption>btnBuy</caption>
+                  <color>4278217108</color>
+                  <borderColor>4294967295</borderColor>
+                  <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                    <link targetPageID="FE057FD3-2ECB-E911-9279-10DDB1B925F0" linkType="ltPageLink" isApplyIncludePage="False" title="Order">
+                      <area shape="0" alt="" ID="{A49F4FBE-33CB-E911-9279-10DDB1B925F0}" coords="(0,0,48,22)"/>
+                    </link>
+                  </links>
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>BUY</text>
+                  <textColor>4294967295</textColor>
+                  <textSize>12</textSize>
+                  <textWordWrap>False</textWordWrap>
+                  <lineSpacing>0</lineSpacing>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>11</radius>
+                </control>
+                <control controlID="E8A02978-2DCB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="290" y="29" w="30" h="13" zOrder="8">
+                  <caption>textTime</caption>
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>34+min</text>
+                  <textColor>4284900966</textColor>
+                  <textSize>10</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="C40F3CC2-2BCB-E911-9279-10DDB1B925F0" controlTypeID="__group__" x="21" y="697" w="320" h="286" zOrder="1">
+              <caption>ListItem2</caption>
+              <groupChildrenDescriptors>
+                <control controlID="3C103CC2-2BCB-E911-9279-10DDB1B925F0" controlTypeID="Image" x="0" y="0" w="36" h="36" zOrder="0">
+                  <caption>avatar</caption>
+                  <clipShapeType>SbEllipse</clipShapeType>
+                  <radius>50</radius>
+                  <radiusIsPercent>True</radiusIsPercent>
+                  <URL>CE88A96398DDB12C706E1D3DDB8A0557.jpg</URL>
+                  <fitMode>fmFit</fitMode>
+                </control>
+                <control controlID="8C103CC2-2BCB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="46" y="0" w="89" h="18" zOrder="1">
+                  <caption>fmName</caption>
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>Tristan+Landry</text>
+                  <textColor>4278217108</textColor>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="DC103CC2-2BCB-E911-9279-10DDB1B925F0" controlTypeID="Icon" x="46" y="24" w="11" h="11" zOrder="2">
+                  <icon>
+                    <ID/>
+                    <iconFontName>jdIonicons</iconFontName>
+                    <iconCode>62371</iconCode>
+                  </icon>
+                  <URL>474A61FDC203C97B2EEFAF494C017CCB.svg</URL>
+                </control>
+                <control controlID="2C113CC2-2BCB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="63" y="24" w="58" h="13" zOrder="3">
+                  <caption>textLocation</caption>
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>Kivukoni+Feri</text>
+                  <textColor>4284900966</textColor>
+                  <textSize>10</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="D6113CC2-2BCB-E911-9279-10DDB1B925F0" controlTypeID="Image" x="0" y="59" w="320" h="227" zOrder="4">
+                  <caption>mainImage</caption>
+                  <URL>D3E168C59834761E9D6AE360A75FF55C.png</URL>
+                  <fitMode>fmCenter</fitMode>
+                </control>
+                <control controlID="26123CC2-2BCB-E911-9279-10DDB1B925F0" controlTypeID="Shape" x="0" y="237" w="320" h="48" zOrder="5">
+                  <color>2986344448</color>
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="6C123CC2-2BCB-E911-9279-10DDB1B925F0" controlTypeID="TextArea" x="0" y="237" w="236" h="48" zOrder="6">
+                  <caption>textDescription</caption>
+                  <color>27028</color>
+                  <font family="Raleway+Thin" displayName="Raleway+Thin" postScript="Raleway-Thin" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+                  <text>Octopus+(Pweza)+120kg+available+at+TZS8%2C000+per+kg</text>
+                  <textColor>4294967295</textColor>
+                  <textSize>12</textSize>
+                  <textAlign>HaCenter</textAlign>
+                  <textVAlign>VaMiddle</textVAlign>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="BC123CC2-2BCB-E911-9279-10DDB1B925F0" controlTypeID="Button" x="262" y="250" w="48" h="22" zOrder="7">
+                  <caption>btnBuy</caption>
+                  <color>4278217108</color>
+                  <borderColor>4294967295</borderColor>
+                  <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                    <link targetPageID="E68F25AA-3ACB-E911-9279-10DDB1B925F0" linkType="ltPageLink" isApplyIncludePage="False" title="Order2">
+                      <area shape="0" alt="" ID="{0C5A58BE-3ACB-E911-9279-10DDB1B925F0}" coords="(0,0,48,22)"/>
+                    </link>
+                  </links>
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>BUY</text>
+                  <textColor>4294967295</textColor>
+                  <textSize>12</textSize>
+                  <textWordWrap>False</textWordWrap>
+                  <lineSpacing>0</lineSpacing>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>11</radius>
+                </control>
+                <control controlID="0C133CC2-2BCB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="276" y="29" w="44" h="13" zOrder="8">
+                  <caption>textTime</caption>
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>1h+40+min</text>
+                  <textColor>4284900966</textColor>
+                  <textSize>10</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="5C133CC2-2BCB-E911-9279-10DDB1B925F0" controlTypeID="__group__" x="21" y="64" w="320" h="285" zOrder="2">
+              <caption>ListItem1</caption>
+              <groupChildrenDescriptors>
+                <control controlID="A2133CC2-2BCB-E911-9279-10DDB1B925F0" controlTypeID="Image" x="0" y="0" w="36" h="36" zOrder="0">
+                  <caption>avatar</caption>
+                  <clipShapeType>SbEllipse</clipShapeType>
+                  <radius>50</radius>
+                  <radiusIsPercent>True</radiusIsPercent>
+                  <URL>39A86761AD18FD2020E7373EA266CAD8.jpeg</URL>
+                  <fitMode>fmFit</fitMode>
+                </control>
+                <control controlID="F2133CC2-2BCB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="46" y="0" w="125" h="18" zOrder="1">
+                  <caption>fmName</caption>
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>Landry+Kampangala</text>
+                  <textColor>4278217108</textColor>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="42143CC2-2BCB-E911-9279-10DDB1B925F0" controlTypeID="Icon" x="46" y="24" w="11" h="11" zOrder="2">
+                  <icon>
+                    <ID/>
+                    <iconFontName>jdIonicons</iconFontName>
+                    <iconCode>62371</iconCode>
+                  </icon>
+                  <URL>474A61FDC203C97B2EEFAF494C017CCB.svg</URL>
+                </control>
+                <control controlID="92143CC2-2BCB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="63" y="24" w="48" h="13" zOrder="3">
+                  <caption>textLocation</caption>
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>Kawe+Club</text>
+                  <textColor>4284900966</textColor>
+                  <textSize>10</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="D8143CC2-2BCB-E911-9279-10DDB1B925F0" controlTypeID="Image" x="0" y="59" w="320" h="226" zOrder="4">
+                  <caption>mainImage</caption>
+                  <URL>389491AD30472016F8101165B4F5BBFC.jpeg</URL>
+                  <fitMode>fmFill</fitMode>
+                </control>
+                <control controlID="1E153CC2-2BCB-E911-9279-10DDB1B925F0" controlTypeID="Shape" x="0" y="237" w="320" h="48" zOrder="5">
+                  <color>2986344448</color>
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="6E153CC2-2BCB-E911-9279-10DDB1B925F0" controlTypeID="TextArea" x="0" y="237" w="236" h="48" zOrder="6">
+                  <caption>textDescription</caption>
+                  <color>27028</color>
+                  <font family="Raleway+Thin" displayName="Raleway+Thin" postScript="Raleway-Thin" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+                  <text>Red+Snapper+200kg+available+at+TZS10%2C000+per+kg</text>
+                  <textColor>4294967295</textColor>
+                  <textSize>12</textSize>
+                  <textAlign>HaCenter</textAlign>
+                  <textVAlign>VaMiddle</textVAlign>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="B4153CC2-2BCB-E911-9279-10DDB1B925F0" controlTypeID="Button" x="262" y="250" w="48" h="22" zOrder="7">
+                  <caption>btnBuy</caption>
+                  <color>4278217108</color>
+                  <borderColor>4294967295</borderColor>
+                  <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                    <link targetPageID="FE057FD3-2ECB-E911-9279-10DDB1B925F0" linkType="ltPageLink" isApplyIncludePage="False" title="Order">
+                      <area shape="0" alt="" ID="{2E9A12E5-38CB-E911-9279-10DDB1B925F0}" coords="(0,0,48,22)"/>
+                    </link>
+                  </links>
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>BUY</text>
+                  <textColor>4294967295</textColor>
+                  <textSize>12</textSize>
+                  <textWordWrap>False</textWordWrap>
+                  <lineSpacing>0</lineSpacing>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>11</radius>
+                </control>
+                <control controlID="04163CC2-2BCB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="290" y="29" w="30" h="13" zOrder="8">
+                  <caption>textTime</caption>
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>10+min</text>
+                  <textColor>4284900966</textColor>
+                  <textSize>10</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="8EB23D86-21CB-E911-9279-10DDB1B925F0" controlTypeID="Border" x="0" y="0" w="360" h="640" zOrder="1">
+          <color>4284900966</color>
+          <borderColor>4278190080</borderColor>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="844C369D-80CC-E911-A258-10DDB1B925F0" controlTypeID="__group__" x="149" y="60" w="191" h="207" zOrder="1">
+      <isShow>False</isShow>
+      <groupChildrenDescriptors>
+        <control controlID="400ED47D-7FCC-E911-A258-10DDB1B925F0" controlTypeID="Shape" x="0" y="0" w="191" h="207" zOrder="0">
+          <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <selectedIndex>-1</selectedIndex>
+          <radius>8</radius>
+        </control>
+        <control controlID="F8D7B29F-7FCC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="39" y="22" w="47" h="21" zOrder="1">
+          <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Profile</text>
+          <textSize>18</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="7C4B00B5-7FCC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="39" y="59" w="54" h="21" zOrder="2">
+          <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>History</text>
+          <textSize>18</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="1AADAEC0-7FCC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="39" y="133" w="59" h="21" zOrder="3">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="56BFF511-1DCB-E911-9279-10DDB1B925F0" linkType="ltPageLink" isApplyIncludePage="False" title="Login">
+              <area shape="0" alt="" ID="{30BAAEC0-7FCC-E911-A258-10DDB1B925F0}" coords="(0,0,59,21)"/>
+            </link>
+          </links>
+          <interactiveData>
+            <entry title="">
+              <area shape="0" alt="" ID="{9EBAAEC0-7FCC-E911-A258-10DDB1B925F0}" coords="(0,0,59,21)"/>
+              <events title="">
+                <event eventType="atClick" isChecked="True">
+                  <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                    <target targetID="1AADAEC0-7FCC-E911-A258-10DDB1B925F0" IsNeedReplaceAsSelfID="True" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                      <command name="Set Text Color" isChecked="True" descrition="">
+                        <param name="AniInterpolation" value="0" varType="3" description=""/>
+                        <param name="AniDuration" value="200" varType="3" description=""/>
+                        <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                        <param name="AniLoop" value="False" varType="11" description=""/>
+                        <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                        <param name="Delay" value="0" varType="3" description=""/>
+                        <param name="FromValue" value="0" varType="20" description=""/>
+                        <param name="ToValue" value="4278216396" varType="20" description=""/>
+                      </command>
+                      <command name="Set Color" isChecked="False" descrition="">
+                        <param name="AniInterpolation" value="0" varType="3" description=""/>
+                        <param name="AniDuration" value="200" varType="3" description=""/>
+                        <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                        <param name="AniLoop" value="False" varType="11" description=""/>
+                        <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                        <param name="Delay" value="0" varType="3" description=""/>
+                        <param name="FromValue" value="4294967295" varType="20" description=""/>
+                        <param name="ToValue" value="4278216447" varType="20" description=""/>
+                      </command>
+                    </target>
+                    <target targetID="400ED47D-7FCC-E911-A258-10DDB1B925F0" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                      <command name="Change Visibility" isChecked="True" descrition="">
+                        <param name="AniInterpolation" value="1" varType="3" description=""/>
+                        <param name="AniDuration" value="200" varType="3" description=""/>
+                        <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                        <param name="AniLoop" value="False" varType="11" description=""/>
+                        <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                        <param name="Delay" value="0" varType="3" description=""/>
+                        <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                        <param name="ForceFromInitValue" value="False" varType="11" description=""/>
+                        <param name="ForceSetVisible" value="False" varType="11" description=""/>
+                        <param name="Value" value="2" varType="3" description=""/>
+                        <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                      </command>
+                    </target>
+                  </behaviour>
+                </event>
+              </events>
+            </entry>
+          </interactiveData>
+          <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Signout</text>
+          <textSize>18</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="B2DC5ACF-7FCC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="39" y="96" w="47" h="21" zOrder="4">
+          <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>About</text>
+          <textSize>18</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="B469E158-81CC-E911-A258-10DDB1B925F0" controlTypeID="Top ActionBar" x="0" y="0" w="360" h="48" zOrder="2">
+      <color>4278217108</color>
+      <interactiveData>
+        <entry title="Back">
+          <area shape="0" alt="" ID="{A276E158-81CC-E911-A258-10DDB1B925F0}" coords="(2,4,42,44)"/>
+          <events title=""/>
+        </entry>
+        <entry title="Menu">
+          <area shape="0" alt="" ID="{F276E158-81CC-E911-A258-10DDB1B925F0}" coords="(313,4,353,44)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="844C369D-80CC-E911-A258-10DDB1B925F0" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Change Visibility" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="1" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                    <param name="ForceFromInitValue" value="False" varType="11" description=""/>
+                    <param name="ForceSetVisible" value="False" varType="11" description=""/>
+                    <param name="Value" value="2" varType="3" description=""/>
+                    <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>SOKO</text>
+      <textColor>4294967295</textColor>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <iconColor>4294967295</iconColor>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

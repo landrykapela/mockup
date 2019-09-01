@@ -1,0 +1,526 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="2AA7285D-69CC-E911-A258-10DDB1B925F0" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="71">
+    <control controlID="FA089E5F-6ACC-E911-A258-10DDB1B925F0" controlTypeID="__group__" x="15" y="597" w="47" h="38" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="F0F9D41E-6ACC-E911-A258-10DDB1B925F0" controlTypeID="Icon" x="8" y="0" w="24" h="24" zOrder="0">
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62642</iconCode>
+          </icon>
+          <URL>21320CC5EA276FD4D9D992FF6DB75390.svg</URL>
+        </control>
+        <control controlID="18447E26-6ACC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="0" y="24" w="47" h="14" zOrder="1">
+          <font family="Roboto+Thin" displayName="Roboto+Thin" postScript="Roboto-Thin" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Favorites</text>
+          <textColor>4284900966</textColor>
+          <textSize>12</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="44EFF379-6ACC-E911-A258-10DDB1B925F0" controlTypeID="__group__" x="86" y="597" w="47" h="38" zOrder="1">
+      <groupChildrenDescriptors>
+        <control controlID="C6EFF379-6ACC-E911-A258-10DDB1B925F0" controlTypeID="Icon" x="9" y="0" w="24" h="24" zOrder="0">
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62387</iconCode>
+          </icon>
+          <URL>0CCFED0BD1BC3BB4D610117937314139.svg</URL>
+        </control>
+        <control controlID="16F0F379-6ACC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="0" y="24" w="42" h="14" zOrder="1">
+          <font family="Roboto+Thin" displayName="Roboto+Thin" postScript="Roboto-Thin" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Recents</text>
+          <textColor>4284900966</textColor>
+          <textSize>12</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="EA0BC680-6ACC-E911-A258-10DDB1B925F0" controlTypeID="__group__" x="156" y="597" w="47" h="38" zOrder="2">
+      <groupChildrenDescriptors>
+        <control controlID="620CC680-6ACC-E911-A258-10DDB1B925F0" controlTypeID="Icon" x="11" y="0" w="24" h="24" zOrder="0">
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62489</iconCode>
+          </icon>
+          <URL>E7D27E7A00FA7023CB70F7694DE9F06F.svg</URL>
+        </control>
+        <control controlID="BC0CC680-6ACC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="0" y="24" w="47" h="14" zOrder="1">
+          <font family="Roboto+Thin" displayName="Roboto+Thin" postScript="Roboto-Thin" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Contacts</text>
+          <textColor>4284900966</textColor>
+          <textSize>12</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="ACC1F18C-6ACC-E911-A258-10DDB1B925F0" controlTypeID="__group__" x="230" y="597" w="39" h="38" zOrder="3">
+      <groupChildrenDescriptors>
+        <control controlID="1AC2F18C-6ACC-E911-A258-10DDB1B925F0" controlTypeID="Icon" x="8" y="0" w="24" h="24" zOrder="0">
+          <color>4278203340</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62544</iconCode>
+          </icon>
+          <URL>F32AD2E6DC0B9EEACED592EEFB4C8AA2.svg</URL>
+        </control>
+        <control controlID="6AC2F18C-6ACC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="0" y="24" w="39" h="14" zOrder="1">
+          <font family="Roboto+Thin" displayName="Roboto+Thin" postScript="Roboto-Thin" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Keypad</text>
+          <textColor>4278203340</textColor>
+          <textSize>12</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="E8D06F91-6ACC-E911-A258-10DDB1B925F0" controlTypeID="__group__" x="293" y="597" w="50" h="38" zOrder="4">
+      <groupChildrenDescriptors>
+        <control controlID="6AD16F91-6ACC-E911-A258-10DDB1B925F0" controlTypeID="Icon" x="13" y="0" w="24" h="24" zOrder="0">
+          <icon>
+            <ID/>
+            <iconFontName>jdIcoFont</iconFontName>
+            <iconCode>59310</iconCode>
+          </icon>
+          <URL>D29F7CDDCB566DCE01EA8506EDE827F9.svg</URL>
+        </control>
+        <control controlID="C4D16F91-6ACC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="0" y="24" w="50" h="14" zOrder="1">
+          <font family="Roboto+Thin" displayName="Roboto+Thin" postScript="Roboto-Thin" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>Voicemail</text>
+          <textColor>4284900966</textColor>
+          <textSize>12</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="CAA623AC-6BCC-E911-A258-10DDB1B925F0" controlTypeID="__group__" x="144" y="510" w="64" h="64" zOrder="5">
+      <groupChildrenDescriptors>
+        <control controlID="74654892-6BCC-E911-A258-10DDB1B925F0" controlTypeID="Circle" x="0" y="0" w="64" h="64" zOrder="0">
+          <color>4278242304</color>
+          <borderVisible>False</borderVisible>
+          <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+          <shapeBorderType>SbEllipse</shapeBorderType>
+          <thickness>4</thickness>
+        </control>
+        <control controlID="D07AEC86-6BCC-E911-A258-10DDB1B925F0" controlTypeID="Icon" x="17" y="17" w="32" h="32" zOrder="1">
+          <color>4294967295</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62649</iconCode>
+          </icon>
+          <URL>2217D9ED7C2340D55C7BC04EC66A955A.svg</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="72616D44-6DCC-E911-A258-10DDB1B925F0" controlTypeID="__group__" x="52" y="162" w="248" h="328" zOrder="6">
+      <caption>KEYPAD</caption>
+      <groupChildrenDescriptors>
+        <control controlID="24AC3CFC-6BCC-E911-A258-10DDB1B925F0" controlTypeID="__group__" x="0" y="0" w="64" h="64" zOrder="0">
+          <caption>1</caption>
+          <groupChildrenDescriptors>
+            <control controlID="3E9474C2-6BCC-E911-A258-10DDB1B925F0" controlTypeID="Circle" x="0" y="0" w="64" h="64" zOrder="0">
+              <borderColor>4278217108</borderColor>
+              <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+            </control>
+            <control controlID="28E4D3DD-6BCC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="25" y="12" w="13" h="29" zOrder="1">
+              <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>1</text>
+              <textSize>24</textSize>
+              <textAlign>HaCenter</textAlign>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="D28A390E-6CCC-E911-A258-10DDB1B925F0" controlTypeID="__group__" x="92" y="0" w="64" h="64" zOrder="1">
+          <caption>2</caption>
+          <groupChildrenDescriptors>
+            <control controlID="4A8B390E-6CCC-E911-A258-10DDB1B925F0" controlTypeID="Circle" x="0" y="0" w="64" h="64" zOrder="0">
+              <borderColor>4278217108</borderColor>
+              <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+            </control>
+            <control controlID="908B390E-6CCC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="25" y="5" w="13" h="29" zOrder="1">
+              <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>2</text>
+              <textSize>24</textSize>
+              <textAlign>HaCenter</textAlign>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="A62B6734-6CCC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="20" y="36" w="24" h="15" zOrder="2">
+              <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>ABC</text>
+              <textSize>12</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="D0D8685B-6CCC-E911-A258-10DDB1B925F0" controlTypeID="__group__" x="184" y="0" w="64" h="64" zOrder="2">
+          <caption>3</caption>
+          <groupChildrenDescriptors>
+            <control controlID="3ED9685B-6CCC-E911-A258-10DDB1B925F0" controlTypeID="Circle" x="0" y="0" w="64" h="64" zOrder="0">
+              <borderColor>4278217108</borderColor>
+              <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+            </control>
+            <control controlID="8ED9685B-6CCC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="24" y="8" w="13" h="29" zOrder="1">
+              <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>3</text>
+              <textSize>24</textSize>
+              <textAlign>HaCenter</textAlign>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="D4D9685B-6CCC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="19" y="37" w="22" h="15" zOrder="2">
+              <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>DEF</text>
+              <textSize>12</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="B6D3C102-6DCC-E911-A258-10DDB1B925F0" controlTypeID="__group__" x="92" y="88" w="64" h="64" zOrder="3">
+          <caption>5</caption>
+          <groupChildrenDescriptors>
+            <control controlID="24D4C102-6DCC-E911-A258-10DDB1B925F0" controlTypeID="Circle" x="0" y="0" w="64" h="64" zOrder="0">
+              <borderColor>4278217108</borderColor>
+              <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+            </control>
+            <control controlID="74D4C102-6DCC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="25" y="4" w="13" h="29" zOrder="1">
+              <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>5</text>
+              <textSize>24</textSize>
+              <textAlign>HaCenter</textAlign>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="BAD4C102-6DCC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="20" y="36" w="20" h="15" zOrder="2">
+              <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>JKL</text>
+              <textSize>12</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="0AD5C102-6DCC-E911-A258-10DDB1B925F0" controlTypeID="__group__" x="184" y="88" w="64" h="64" zOrder="4">
+          <caption>6</caption>
+          <groupChildrenDescriptors>
+            <control controlID="5AD5C102-6DCC-E911-A258-10DDB1B925F0" controlTypeID="Circle" x="0" y="0" w="64" h="64" zOrder="0">
+              <borderColor>4278217108</borderColor>
+              <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+            </control>
+            <control controlID="A0D5C102-6DCC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="26" y="9" w="13" h="29" zOrder="1">
+              <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>6</text>
+              <textSize>24</textSize>
+              <textAlign>HaCenter</textAlign>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="E6D5C102-6DCC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="19" y="37" w="27" h="15" zOrder="2">
+              <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>MNO</text>
+              <textSize>12</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="EA5AFD51-6DCC-E911-A258-10DDB1B925F0" controlTypeID="__group__" x="0" y="88" w="64" h="64" zOrder="5">
+          <caption>4</caption>
+          <groupChildrenDescriptors>
+            <control controlID="625BFD51-6DCC-E911-A258-10DDB1B925F0" controlTypeID="Circle" x="0" y="0" w="64" h="64" zOrder="0">
+              <borderColor>4278217108</borderColor>
+              <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+            </control>
+            <control controlID="B25BFD51-6DCC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="25" y="4" w="13" h="29" zOrder="1">
+              <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>4</text>
+              <textSize>24</textSize>
+              <textAlign>HaCenter</textAlign>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="025CFD51-6DCC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="20" y="36" w="20" h="15" zOrder="2">
+              <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>GHI</text>
+              <textSize>12</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="525CFD51-6DCC-E911-A258-10DDB1B925F0" controlTypeID="__group__" x="0" y="176" w="64" h="64" zOrder="6">
+          <caption>7</caption>
+          <groupChildrenDescriptors>
+            <control controlID="AC5CFD51-6DCC-E911-A258-10DDB1B925F0" controlTypeID="Circle" x="0" y="0" w="64" h="64" zOrder="0">
+              <borderColor>4278217108</borderColor>
+              <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+            </control>
+            <control controlID="FC5CFD51-6DCC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="24" y="8" w="13" h="29" zOrder="1">
+              <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>7</text>
+              <textSize>24</textSize>
+              <textAlign>HaCenter</textAlign>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="4C5DFD51-6DCC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="14" y="37" w="32" h="15" zOrder="2">
+              <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>PQRS</text>
+              <textSize>12</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="8C7306AC-6DCC-E911-A258-10DDB1B925F0" controlTypeID="__group__" x="92" y="176" w="64" h="64" zOrder="7">
+          <caption>8</caption>
+          <groupChildrenDescriptors>
+            <control controlID="FA7306AC-6DCC-E911-A258-10DDB1B925F0" controlTypeID="Circle" x="0" y="0" w="64" h="64" zOrder="0">
+              <borderColor>4278217108</borderColor>
+              <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+            </control>
+            <control controlID="4A7406AC-6DCC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="25" y="6" w="13" h="29" zOrder="1">
+              <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>8</text>
+              <textSize>24</textSize>
+              <textAlign>HaCenter</textAlign>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="907406AC-6DCC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="20" y="36" w="22" h="15" zOrder="2">
+              <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>TUV</text>
+              <textSize>12</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="D67406AC-6DCC-E911-A258-10DDB1B925F0" controlTypeID="__group__" x="184" y="176" w="64" h="64" zOrder="8">
+          <caption>9</caption>
+          <groupChildrenDescriptors>
+            <control controlID="267506AC-6DCC-E911-A258-10DDB1B925F0" controlTypeID="Circle" x="0" y="0" w="64" h="64" zOrder="0">
+              <borderColor>4278217108</borderColor>
+              <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+            </control>
+            <control controlID="6C7506AC-6DCC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="24" y="8" w="13" h="29" zOrder="1">
+              <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>9</text>
+              <textSize>24</textSize>
+              <textAlign>HaCenter</textAlign>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="B27506AC-6DCC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="14" y="37" w="32" h="15" zOrder="2">
+              <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>WXYZ</text>
+              <textSize>12</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="F8A65CE8-6DCC-E911-A258-10DDB1B925F0" controlTypeID="__group__" x="184" y="264" w="64" h="64" zOrder="9">
+          <caption>%23</caption>
+          <groupChildrenDescriptors>
+            <control controlID="66A75CE8-6DCC-E911-A258-10DDB1B925F0" controlTypeID="Circle" x="0" y="0" w="64" h="64" zOrder="0">
+              <borderColor>4278217108</borderColor>
+              <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+            </control>
+            <control controlID="C0A75CE8-6DCC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="24" y="15" w="16" h="33" zOrder="1">
+              <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>%23</text>
+              <textSize>28</textSize>
+              <textAlign>HaCenter</textAlign>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="60A85CE8-6DCC-E911-A258-10DDB1B925F0" controlTypeID="__group__" x="92" y="264" w="64" h="64" zOrder="10">
+          <caption>0</caption>
+          <groupChildrenDescriptors>
+            <control controlID="B0A85CE8-6DCC-E911-A258-10DDB1B925F0" controlTypeID="Circle" x="0" y="0" w="64" h="64" zOrder="0">
+              <borderColor>4278217108</borderColor>
+              <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+            </control>
+            <control controlID="00A95CE8-6DCC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="24" y="8" w="13" h="29" zOrder="1">
+              <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>0</text>
+              <textSize>24</textSize>
+              <textAlign>HaCenter</textAlign>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="50A95CE8-6DCC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="28" y="37" w="7" h="15" zOrder="2">
+              <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>%2B</text>
+              <textSize>12</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="42CA703E-6ECC-E911-A258-10DDB1B925F0" controlTypeID="__group__" x="0" y="264" w="64" h="64" zOrder="11">
+          <caption>*</caption>
+          <groupChildrenDescriptors>
+            <control controlID="BACA703E-6ECC-E911-A258-10DDB1B925F0" controlTypeID="Circle" x="0" y="0" w="64" h="64" zOrder="0">
+              <borderColor>4278217108</borderColor>
+              <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+            </control>
+            <control controlID="0ACB703E-6ECC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="26" y="20" w="10" h="33" zOrder="1">
+              <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>*</text>
+              <textSize>28</textSize>
+              <textAlign>HaCenter</textAlign>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="E26E7FA9-6ECC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="102" y="73" w="147" h="29" zOrder="7">
+      <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>068+686+8058</text>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B8EC43FE-74CC-E911-A258-10DDB1B925F0" controlTypeID="Icon" x="321" y="75" w="24" h="24" zOrder="8">
+      <color>4278217108</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62398</iconCode>
+      </icon>
+      <URL>A86860E247061BC8F71F1A00C9460355.svg</URL>
+    </control>
+    <control controlID="1483C138-75CC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="283" y="-2" w="19" h="18" zOrder="9">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>.....</text>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A8FDC381-75CC-E911-A258-10DDB1B925F0" controlTypeID="Icon" x="305" y="4" w="12" h="12" zOrder="10">
+      <color>4278190080</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdFontAwesome</iconFontName>
+        <iconCode>61931</iconCode>
+      </icon>
+      <URL>FDF8D4C4587A2EFF72C84E0FA85DB531.svg</URL>
+    </control>
+    <control controlID="D241A0A5-75CC-E911-A258-10DDB1B925F0" controlTypeID="Icon" x="326" y="3" w="14" h="14" zOrder="11">
+      <color>4278190080</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdFontCustom</iconFontName>
+        <iconCode>61719</iconCode>
+      </icon>
+      <URL>AAA01BEADADFA6D038287985B9C382A8.svg</URL>
+    </control>
+    <control controlID="7E9E3115-76CC-E911-A258-10DDB1B925F0" controlTypeID="Label" x="15" y="4" w="25" h="13" zOrder="12">
+      <font family="Helvetica+Neue" displayName="Helvetica+Neue+Light" postScript="HelveticaNeue-Light" weightStyle="Light" weight="200" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>17%3A23</text>
+      <textSize>10</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8E58E249-76CC-E911-A258-10DDB1B925F0" controlTypeID="Icon" x="16" y="75" w="24" h="24" zOrder="13">
+      <color>4278217108</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62602</iconCode>
+      </icon>
+      <URL>C0279681994F324A54B3DB37939C8984.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

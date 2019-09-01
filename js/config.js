@@ -1,0 +1,1 @@
+window.config={"logo":"","background":"#0099FF","shell":"iPhone","showControlPanel":false,"iOSGuide":true,"alwaysShowLinks":false,"hoverShowLinks":false,"hoverShowRemarks":true,"showComments":true,"showQRCode":false,"hintLinks":true,"scrollRemarks":true,"isShowAllPageNode":false,"isShowPreviewTools":false,"showRemarkFlag":false}

@@ -1,0 +1,79 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="AAEC04DE-1FCB-E911-9279-10DDB1B925F0" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="6">
+    <control controlID="12DE91FC-1FCB-E911-9279-10DDB1B925F0" controlTypeID="Shape" x="0" y="0" w="360" h="640" zOrder="0">
+      <color>4278217108</color>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="44A202F5-1FCB-E911-9279-10DDB1B925F0" controlTypeID="TextInput" x="14" y="207" w="325" h="49" zOrder="1">
+      <caption>inputEmail</caption>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <placeHolder>E-mail</placeHolder>
+      <radius>24</radius>
+    </control>
+    <control controlID="C6A202F5-1FCB-E911-9279-10DDB1B925F0" controlTypeID="TextInput" x="12" y="292" w="325" h="49" zOrder="2">
+      <caption>inputPassword</caption>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <placeHolder>Password</placeHolder>
+      <inputModel>emPassword</inputModel>
+      <radius>24</radius>
+    </control>
+    <control controlID="20A302F5-1FCB-E911-9279-10DDB1B925F0" controlTypeID="Button" x="16" y="413" w="320" h="48" zOrder="3">
+      <caption>signupButton</caption>
+      <color>4278190080</color>
+      <borderColor>4294967295</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="DEE10AD1-20CB-E911-9279-10DDB1B925F0" linkType="ltPageLink" isApplyIncludePage="False" title="Dashboard">
+          <area shape="0" alt="" ID="{9806BDA4-25CB-E911-9279-10DDB1B925F0}" coords="(0,0,320,48)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>SIGNUP</text>
+      <textColor>4294967295</textColor>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>24</radius>
+    </control>
+    <control controlID="10A402F5-1FCB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="124" y="509" w="88" h="22" zOrder="4">
+      <caption>textNewAccount</caption>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="56BFF511-1DCB-E911-9279-10DDB1B925F0" linkType="ltPageLink" isApplyIncludePage="False" title="Login">
+          <area shape="0" alt="" ID="{18F503F5-1FCB-E911-9279-10DDB1B925F0}" coords="(0,0,88,22)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Login+Here</text>
+      <textColor>4294967295</textColor>
+      <textSize>18</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="BC8A076C-20CB-E911-9279-10DDB1B925F0" controlTypeID="TextArea" x="56" y="96" w="240" h="63" zOrder="5">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Signup+and+join+the+largest+digital+fish+market</text>
+      <textColor>4294967295</textColor>
+      <textSize>20</textSize>
+      <textAlign>HaCenter</textAlign>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

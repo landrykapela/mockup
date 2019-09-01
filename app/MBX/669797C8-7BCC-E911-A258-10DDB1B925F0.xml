@@ -1,0 +1,58 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="48E219FB-3BCB-E911-9279-10DDB1B925F0" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="5">
+    <control controlID="66F24688-35CB-E911-9279-10DDB1B925F0" controlTypeID="Shape" x="0" y="47" w="360" h="593" zOrder="0">
+      <color>4278217108</color>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="24EA5E47-35CB-E911-9279-10DDB1B925F0" controlTypeID="Top ActionBar" x="0" y="-1" w="360" h="48" zOrder="1">
+      <caption>actionBar</caption>
+      <color>4278217108</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="E68F25AA-3ACB-E911-9279-10DDB1B925F0" linkType="ltPageLink" isApplyIncludePage="False" title="Order2">
+          <area shape="0" alt="" ID="{1CFE9FF6-2ECB-E911-9279-10DDB1B925F0}" coords="(2,4,42,44)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Menu">
+          <area shape="0" alt="" ID="{BCFE9FF6-2ECB-E911-9279-10DDB1B925F0}" coords="(313,4,353,44)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Kivukoni+Feri</text>
+      <textColor>4294967295</textColor>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <iconColor>4294967295</iconColor>
+    </control>
+    <control controlID="E8DF4D5D-35CB-E911-9279-10DDB1B925F0" controlTypeID="TextInput" x="14" y="67" w="331" h="39" zOrder="2">
+      <caption>inputLocation</caption>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Kawe+Club</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <placeHolder>Search+Location</placeHolder>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="A0D031CB-35CB-E911-9279-10DDB1B925F0" controlTypeID="Icon" x="38" y="375" w="24" h="24" zOrder="3">
+      <color>4278217108</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62371</iconCode>
+      </icon>
+      <URL>474A61FDC203C97B2EEFAF494C017CCB.svg</URL>
+    </control>
+    <control controlID="026A0BB4-36CB-E911-9279-10DDB1B925F0" controlTypeID="Image" x="0" y="123" w="359" h="517" zOrder="4">
+      <URL>B777E9377FF64C2C01ADA0452BAE21B7.png</URL>
+      <fitMode>fmFill</fitMode>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

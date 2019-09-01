@@ -1,0 +1,216 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="E68F25AA-3ACB-E911-9279-10DDB1B925F0" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="23">
+    <control controlID="5231764B-31CB-E911-9279-10DDB1B925F0" controlTypeID="ScrollView" x="0" y="-1" w="360" h="641" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="EA48764B-31CB-E911-9279-10DDB1B925F0" controlTypeID="ScrollViewContentPanel" x="0" y="-162" w="361" h="803" zOrder="0">
+          <alias>contentPanel</alias>
+          <groupChildrenDescriptors>
+            <control controlID="989C8A6C-31CB-E911-9279-10DDB1B925F0" controlTypeID="__group__" x="0" y="48" w="360" h="648" zOrder="0">
+              <caption>itemDetails</caption>
+              <groupChildrenDescriptors>
+                <control controlID="569D8A6C-31CB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="10" y="255" w="36" h="18" zOrder="0">
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>Seller</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="A69D8A6C-31CB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="10" y="277" w="89" h="18" zOrder="1">
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>Tristan+Landry</text>
+                  <textColor>4278217108</textColor>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="EC9D8A6C-31CB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="10" y="306" w="32" h="18" zOrder="2">
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>Price</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="3C9E8A6C-31CB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="10" y="330" w="111" h="18" zOrder="3">
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>TZS+8%2C000+per+Kg</text>
+                  <textColor>4284900966</textColor>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="8C9E8A6C-31CB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="10" y="362" w="54" h="18" zOrder="4">
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>Capacity</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="D29E8A6C-31CB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="10" y="387" w="44" h="18" zOrder="5">
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>120+Kg</text>
+                  <textColor>4284900966</textColor>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="189F8A6C-31CB-E911-9279-10DDB1B925F0" controlTypeID="Slider" x="10" y="449" w="325" h="26" zOrder="6">
+                  <color>4278217108</color>
+                </control>
+                <control controlID="689F8A6C-31CB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="10" y="420" w="41" h="18" zOrder="7">
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>I+want+</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="AE9F8A6C-31CB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="66" y="420" w="34" h="18" zOrder="8">
+                  <caption>textRequired</caption>
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>20+kg</text>
+                  <textColor>4284900966</textColor>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="3C07B385-31CB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="10" y="503" w="52" h="18" zOrder="9">
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>Amount%3A</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="D6719D91-31CB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="83" y="503" w="77" h="18" zOrder="10">
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>TZS160%2C000</text>
+                  <textColor>4284900966</textColor>
+                  <lineSpacing>0</lineSpacing>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="CAE4DD66-32CB-E911-9279-10DDB1B925F0" controlTypeID="CheckBoxGroup" x="243" y="494" w="107" h="36" zOrder="11">
+                  <borderColor>4278217108</borderColor>
+                  <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                    <link targetPageID="AA430C60-3FCB-E911-9279-10DDB1B925F0" linkType="ltPageLink" isApplyIncludePage="False" title="%5B%5DDelivery">
+                      <area shape="0" alt="" ID="{D2363E4E-40CB-E911-9279-10DDB1B925F0}" coords="(0,0,68,36)"/>
+                    </link>
+                  </links>
+                  <interactiveData>
+                    <entry title="%5B%5DDelivery">
+                      <area shape="0" alt="" ID="{720CEF90-40CB-E911-9279-10DDB1B925F0}" coords="(0,0,68,36)"/>
+                      <events title="">
+                        <event eventType="atCheckedChangeTrue" isChecked="True">
+                          <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                            <target targetID="CAE4DD66-32CB-E911-9279-10DDB1B925F0" IsNeedReplaceAsSelfID="True" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                              <command name="Change Visibility" isChecked="True" descrition="">
+                                <param name="AniInterpolation" value="1" varType="3" description=""/>
+                                <param name="AniDuration" value="200" varType="3" description=""/>
+                                <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                                <param name="AniLoop" value="False" varType="11" description=""/>
+                                <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                                <param name="Delay" value="0" varType="3" description=""/>
+                                <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                                <param name="ForceFromInitValue" value="False" varType="11" description=""/>
+                                <param name="ForceSetVisible" value="False" varType="11" description=""/>
+                                <param name="Value" value="2" varType="3" description=""/>
+                                <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                              </command>
+                            </target>
+                          </behaviour>
+                        </event>
+                      </events>
+                    </entry>
+                  </interactiveData>
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+                  <text>%5B%5DDelivery</text>
+                  <textSize>12</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <size>15</size>
+                  <itemHeight>36</itemHeight>
+                  <columnCount>3</columnCount>
+                  <itemRect>[{"left":0,"top":0,"right":68,"bottom":36}]</itemRect>
+                </control>
+                <control controlID="CA999B0F-35CB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="10" y="560" w="41" h="18" zOrder="12">
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>Total%3A+</text>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[fsBold]</textStyles>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="109A9B0F-35CB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="83" y="558" w="99" h="22" zOrder="13">
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>TZS160%2C000</text>
+                  <textColor>4278217108</textColor>
+                  <textSize>18</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="609A9B0F-35CB-E911-9279-10DDB1B925F0" controlTypeID="Button" x="83" y="606" w="176" h="42" zOrder="14">
+                  <caption>btnConfirm</caption>
+                  <color>4278217108</color>
+                  <borderVisible>False</borderVisible>
+                  <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                    <link targetPageID="00A2BED7-78CC-E911-A258-10DDB1B925F0" linkType="ltPageLink" isApplyIncludePage="False" title="OrderSummary2">
+                      <area shape="0" alt="" ID="{DA74B1F6-78CC-E911-A258-10DDB1B925F0}" coords="(0,0,176,42)"/>
+                    </link>
+                  </links>
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+                  <text>CONFIRM</text>
+                  <textColor>4294967295</textColor>
+                  <textSize>12</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>100</radius>
+                  <radiusIsPercent>True</radiusIsPercent>
+                </control>
+                <control controlID="A4749410-3BCB-E911-9279-10DDB1B925F0" controlTypeID="Image" x="0" y="0" w="360" h="245" zOrder="15">
+                  <caption>mainImage</caption>
+                  <URL>D3E168C59834761E9D6AE360A75FF55C.png</URL>
+                  <fitMode>fmCenter</fitMode>
+                </control>
+                <control controlID="542895D8-3BCB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="221" y="367" w="53" h="18" zOrder="16">
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>Location</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="D62895D8-3BCB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="221" y="392" w="81" h="18" zOrder="17">
+                  <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                    <link targetPageID="48E219FB-3BCB-E911-9279-10DDB1B925F0" linkType="ltPageLink" isApplyIncludePage="False" title="ShowOnMap">
+                      <area shape="0" alt="" ID="{AEC46363-3CCB-E911-9279-10DDB1B925F0}" coords="(0,0,81,18)"/>
+                    </link>
+                  </links>
+                  <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+                  <text>Kivukoni+Feri</text>
+                  <textColor>4278217108</textColor>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="F263764B-31CB-E911-9279-10DDB1B925F0" controlTypeID="Border" x="0" y="0" w="360" h="641" zOrder="1">
+          <color>4284900966</color>
+          <borderColor>4278190080</borderColor>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="A09D8D56-31CB-E911-9279-10DDB1B925F0" controlTypeID="Top ActionBar" x="0" y="-1" w="360" h="48" zOrder="1">
+      <caption>actionBar</caption>
+      <color>4278217108</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="DEE10AD1-20CB-E911-9279-10DDB1B925F0" linkType="ltPageLink" isApplyIncludePage="False" title="Dashboard">
+          <area shape="0" alt="" ID="{1CFE9FF6-2ECB-E911-9279-10DDB1B925F0}" coords="(2,4,42,44)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Menu">
+          <area shape="0" alt="" ID="{BCFE9FF6-2ECB-E911-9279-10DDB1B925F0}" coords="(313,4,353,44)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Octopus+(Pweza)</text>
+      <textColor>4294967295</textColor>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <iconColor>4294967295</iconColor>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

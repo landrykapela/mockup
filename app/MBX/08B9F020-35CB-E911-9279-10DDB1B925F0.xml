@@ -1,0 +1,115 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="08B9F020-35CB-E911-9279-10DDB1B925F0" platform="MtMobile" defaultW="360" defaultH="640" measureW="360" measureH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="11">
+    <control controlID="66F24688-35CB-E911-9279-10DDB1B925F0" controlTypeID="Shape" x="0" y="47" w="360" h="593" zOrder="0">
+      <color>4278217108</color>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="24EA5E47-35CB-E911-9279-10DDB1B925F0" controlTypeID="Top ActionBar" x="0" y="-1" w="360" h="48" zOrder="1">
+      <caption>actionBar</caption>
+      <color>4278217108</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="FE057FD3-2ECB-E911-9279-10DDB1B925F0" linkType="ltPageLink" isApplyIncludePage="False" title="Order">
+          <area shape="0" alt="" ID="{1CFE9FF6-2ECB-E911-9279-10DDB1B925F0}" coords="(2,4,42,44)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Menu">
+          <area shape="0" alt="" ID="{BCFE9FF6-2ECB-E911-9279-10DDB1B925F0}" coords="(313,4,353,44)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>Delivery+Route</text>
+      <textColor>4294967295</textColor>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <iconColor>4294967295</iconColor>
+    </control>
+    <control controlID="E8DF4D5D-35CB-E911-9279-10DDB1B925F0" controlTypeID="TextInput" x="14" y="67" w="331" h="39" zOrder="2">
+      <caption>inputLocation</caption>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Tank+Bovu+Bus+Stop</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <placeHolder>Enter++Delivery+Location</placeHolder>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="A0D031CB-35CB-E911-9279-10DDB1B925F0" controlTypeID="Icon" x="38" y="375" w="24" h="24" zOrder="3">
+      <color>4278217108</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62371</iconCode>
+      </icon>
+      <URL>474A61FDC203C97B2EEFAF494C017CCB.svg</URL>
+    </control>
+    <control controlID="026A0BB4-36CB-E911-9279-10DDB1B925F0" controlTypeID="Image" x="1" y="123" w="359" h="517" zOrder="4">
+      <URL>EA61C2183D49150058769C9D313FA52B.png</URL>
+    </control>
+    <control controlID="F457E9FA-36CB-E911-9279-10DDB1B925F0" controlTypeID="Icon" x="58" y="314" w="24" h="24" zOrder="5">
+      <color>4278217108</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62371</iconCode>
+      </icon>
+      <URL>474A61FDC203C97B2EEFAF494C017CCB.svg</URL>
+    </control>
+    <control controlID="288784E7-37CB-E911-9279-10DDB1B925F0" controlTypeID="Shape" x="1" y="520" w="359" h="120" zOrder="6">
+      <color>2986344448</color>
+      <borderColor>4278190080</borderColor>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D2991A03-38CB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="66" y="530" w="71" h="17" zOrder="7">
+      <font family="Raleway+Thin" displayName="Raleway+Thin" postScript="Raleway-Thin" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Estimations</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5213F425-38CB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="76" y="557" w="51" h="20" zOrder="8">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>4.6+Km</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="FC74253E-38CB-E911-9279-10DDB1B925F0" controlTypeID="Label" x="58" y="587" w="88" h="24" zOrder="9">
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+      <text>TZS6%2C000</text>
+      <textColor>4294967295</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="641A7A81-38CB-E911-9279-10DDB1B925F0" controlTypeID="Button" x="201" y="557" w="120" h="39" zOrder="10">
+      <color>4278217108</color>
+      <borderColor>4294967295</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="16D473BD-68CC-E911-A258-10DDB1B925F0" linkType="ltPageLink" isApplyIncludePage="False" title="OrderSummary1">
+          <area shape="0" alt="" ID="{30B66894-7DCC-E911-A258-10DDB1B925F0}" coords="(0,0,120,39)"/>
+        </link>
+      </links>
+      <font family="" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>CONFIRM</text>
+      <textColor>4294967295</textColor>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

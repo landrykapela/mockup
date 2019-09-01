@@ -1,0 +1,157 @@
+﻿<project version="2.9" name="soko" ID="D2BBF511-1DCB-E911-9279-10DDB1B925F0">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtMobile" orientation="MoPortrait" mobileScreenScale="1.77777779102325" mobileType="mmtAndroid" pageSize="(360,640)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Login" ID="56BFF511-1DCB-E911-9279-10DDB1B925F0" expanded="False" code="CgC7pnQqHt" thumbCode="CgC7pnQqHt" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="8406FCADCEC1B7406ADB8C546936ACA1.png"/>
+        <image key="2E93DE878549B4B0A0066B1DB350768E.png"/>
+      </images>
+    </page>
+    <page name="Signup" ID="AAEC04DE-1FCB-E911-9279-10DDB1B925F0" expanded="True" code="rCprXhJjjK" thumbCode="rCprXhJjjK" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Dashboard" ID="DEE10AD1-20CB-E911-9279-10DDB1B925F0" expanded="True" code="fi2dxOxQlm" thumbCode="fi2dxOxQlm" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="474A61FDC203C97B2EEFAF494C017CCB.svg"/>
+        <image key="39A86761AD18FD2020E7373EA266CAD8.jpeg"/>
+        <image key="CE88A96398DDB12C706E1D3DDB8A0557.jpg"/>
+        <image key="D3E168C59834761E9D6AE360A75FF55C.png"/>
+        <image key="389491AD30472016F8101165B4F5BBFC.jpeg"/>
+        <image key="59D097118BF9089316A3B29B331F958E.png"/>
+      </images>
+    </page>
+    <page name="OrderRedSnapperDel" ID="FE057FD3-2ECB-E911-9279-10DDB1B925F0" expanded="True" code="F2FaNC9UgR" thumbCode="F2FaNC9UgR" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="389491AD30472016F8101165B4F5BBFC.jpeg"/>
+      </images>
+    </page>
+    <page name="OrderRedSnapperNo" ID="AC791325-7BCC-E911-A258-10DDB1B925F0" expanded="True" code="Shv1ypmFXg" thumbCode="Shv1ypmFXg" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="389491AD30472016F8101165B4F5BBFC.jpeg"/>
+      </images>
+    </page>
+    <page name="OrderOctopusNo" ID="E68F25AA-3ACB-E911-9279-10DDB1B925F0" expanded="True" code="uvrueX7AcK" thumbCode="uvrueX7AcK" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D3E168C59834761E9D6AE360A75FF55C.png"/>
+      </images>
+    </page>
+    <page name="OrderOctopusDel" ID="AA430C60-3FCB-E911-9279-10DDB1B925F0" expanded="True" code="wTPz2K5Qaa" thumbCode="wTPz2K5Qaa" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D3E168C59834761E9D6AE360A75FF55C.png"/>
+      </images>
+    </page>
+    <page name="DeliveryRedSnapperTankBovu" ID="08B9F020-35CB-E911-9279-10DDB1B925F0" expanded="False" code="8DzhNL1sz8" thumbCode="8DzhNL1sz8" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="EA61C2183D49150058769C9D313FA52B.png"/>
+        <image key="474A61FDC203C97B2EEFAF494C017CCB.svg"/>
+      </images>
+    </page>
+    <page name="DeliveryOctopusKibaoni" ID="587484AC-3CCB-E911-9279-10DDB1B925F0" expanded="True" code="QcSbYLqNFp" thumbCode="QcSbYLqNFp" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="86B20C2E952E616FADD138B7A99A01EB.png"/>
+        <image key="474A61FDC203C97B2EEFAF494C017CCB.svg"/>
+      </images>
+    </page>
+    <page name="ShowFeriOnMap" ID="48E219FB-3BCB-E911-9279-10DDB1B925F0" expanded="False" code="Ardt9hWEMi" thumbCode="Ardt9hWEMi" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="474A61FDC203C97B2EEFAF494C017CCB.svg"/>
+        <image key="23A0D440E9210C423D42B41FFBBD52DD.png"/>
+      </images>
+    </page>
+    <page name="ShowKaweOnMap1" ID="669797C8-7BCC-E911-A258-10DDB1B925F0" expanded="False" code="I3MTAtfZKf" thumbCode="I3MTAtfZKf" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="B777E9377FF64C2C01ADA0452BAE21B7.png"/>
+        <image key="474A61FDC203C97B2EEFAF494C017CCB.svg"/>
+      </images>
+    </page>
+    <page name="ShowKibaoniOnMap" ID="0A9A5B33-43CB-E911-9279-10DDB1B925F0" expanded="True" code="c7Gy1XbPgS" thumbCode="c7Gy1XbPgS" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="46203B4C210FEA387CBFB5E57DFBDE66.png"/>
+      </images>
+    </page>
+    <page name="OrderSummaryOctopusDel" ID="72980538-3DCB-E911-9279-10DDB1B925F0" expanded="False" code="wdEhflucAO" thumbCode="wdEhflucAO" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D3E168C59834761E9D6AE360A75FF55C.png"/>
+        <image key="94E9452D20864CF3FBC79CD2C4E76723.svg"/>
+      </images>
+    </page>
+    <page name="OrderSummaryOctopusNo" ID="00A2BED7-78CC-E911-A258-10DDB1B925F0" expanded="False" code="qd4ECbWAWZ" thumbCode="qd4ECbWAWZ" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D3E168C59834761E9D6AE360A75FF55C.png"/>
+        <image key="94E9452D20864CF3FBC79CD2C4E76723.svg"/>
+      </images>
+    </page>
+    <page name="OrderSummaryRedSnapperDel" ID="16D473BD-68CC-E911-A258-10DDB1B925F0" expanded="False" code="m6kZYJBHR2" thumbCode="m6kZYJBHR2" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="389491AD30472016F8101165B4F5BBFC.jpeg"/>
+        <image key="94E9452D20864CF3FBC79CD2C4E76723.svg"/>
+      </images>
+    </page>
+    <page name="OrderSummaryRedSnapperNo" ID="3E925358-7BCC-E911-A258-10DDB1B925F0" expanded="True" code="L5Qc5JK14k" thumbCode="L5Qc5JK14k" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="389491AD30472016F8101165B4F5BBFC.jpeg"/>
+        <image key="94E9452D20864CF3FBC79CD2C4E76723.svg"/>
+      </images>
+    </page>
+    <page name="CallTristan" ID="2AA7285D-69CC-E911-A258-10DDB1B925F0" expanded="True" code="fajw5CcZCs" thumbCode="fajw5CcZCs" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="21320CC5EA276FD4D9D992FF6DB75390.svg"/>
+        <image key="AAA01BEADADFA6D038287985B9C382A8.svg"/>
+        <image key="C0279681994F324A54B3DB37939C8984.svg"/>
+        <image key="A86860E247061BC8F71F1A00C9460355.svg"/>
+        <image key="F32AD2E6DC0B9EEACED592EEFB4C8AA2.svg"/>
+        <image key="D29F7CDDCB566DCE01EA8506EDE827F9.svg"/>
+        <image key="FDF8D4C4587A2EFF72C84E0FA85DB531.svg"/>
+        <image key="0CCFED0BD1BC3BB4D610117937314139.svg"/>
+        <image key="E7D27E7A00FA7023CB70F7694DE9F06F.svg"/>
+        <image key="2217D9ED7C2340D55C7BC04EC66A955A.svg"/>
+      </images>
+    </page>
+    <page name="CallLandry" ID="624EC665-7ACC-E911-A258-10DDB1B925F0" expanded="False" code="JKSqn2ynnm" thumbCode="JKSqn2ynnm" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="21320CC5EA276FD4D9D992FF6DB75390.svg"/>
+        <image key="AAA01BEADADFA6D038287985B9C382A8.svg"/>
+        <image key="C0279681994F324A54B3DB37939C8984.svg"/>
+        <image key="A86860E247061BC8F71F1A00C9460355.svg"/>
+        <image key="F32AD2E6DC0B9EEACED592EEFB4C8AA2.svg"/>
+        <image key="D29F7CDDCB566DCE01EA8506EDE827F9.svg"/>
+        <image key="FDF8D4C4587A2EFF72C84E0FA85DB531.svg"/>
+        <image key="0CCFED0BD1BC3BB4D610117937314139.svg"/>
+        <image key="E7D27E7A00FA7023CB70F7694DE9F06F.svg"/>
+        <image key="2217D9ED7C2340D55C7BC04EC66A955A.svg"/>
+      </images>
+    </page>
+  </pages>
+  <trash/>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="39A86761AD18FD2020E7373EA266CAD8.jpeg"/>
+    <image key="AAA01BEADADFA6D038287985B9C382A8.svg"/>
+    <image key="CE88A96398DDB12C706E1D3DDB8A0557.jpg"/>
+    <image key="A86860E247061BC8F71F1A00C9460355.svg"/>
+    <image key="86B20C2E952E616FADD138B7A99A01EB.png"/>
+    <image key="D3E168C59834761E9D6AE360A75FF55C.png"/>
+    <image key="E7D27E7A00FA7023CB70F7694DE9F06F.svg"/>
+    <image key="EA61C2183D49150058769C9D313FA52B.png"/>
+    <image key="474A61FDC203C97B2EEFAF494C017CCB.svg"/>
+    <image key="D29F7CDDCB566DCE01EA8506EDE827F9.svg"/>
+    <image key="94E9452D20864CF3FBC79CD2C4E76723.svg"/>
+    <image key="23A0D440E9210C423D42B41FFBBD52DD.png"/>
+    <image key="FDF8D4C4587A2EFF72C84E0FA85DB531.svg"/>
+    <image key="46203B4C210FEA387CBFB5E57DFBDE66.png"/>
+    <image key="2217D9ED7C2340D55C7BC04EC66A955A.svg"/>
+    <image key="2E93DE878549B4B0A0066B1DB350768E.png"/>
+    <image key="59D097118BF9089316A3B29B331F958E.png"/>
+    <image key="B777E9377FF64C2C01ADA0452BAE21B7.png"/>
+    <image key="0CCFED0BD1BC3BB4D610117937314139.svg"/>
+    <image key="21320CC5EA276FD4D9D992FF6DB75390.svg"/>
+    <image key="389491AD30472016F8101165B4F5BBFC.jpeg"/>
+    <image key="C0279681994F324A54B3DB37939C8984.svg"/>
+    <image key="8406FCADCEC1B7406ADB8C546936ACA1.png"/>
+    <image key="F32AD2E6DC0B9EEACED592EEFB4C8AA2.svg"/>
+  </images>
+</project>
